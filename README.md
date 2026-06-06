@@ -1,5 +1,4 @@
 NAME: Christen Cielo H. Infante
-COURSE: (Course / Section)
 
 # PROGRAM DESCRIPTION
 
